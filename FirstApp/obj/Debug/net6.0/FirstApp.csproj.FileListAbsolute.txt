@@ -1,0 +1,15 @@
+C:\Projects\FirstApp\FirstApp\bin\Debug\net6.0\FirstApp.exe
+C:\Projects\FirstApp\FirstApp\bin\Debug\net6.0\FirstApp.deps.json
+C:\Projects\FirstApp\FirstApp\bin\Debug\net6.0\FirstApp.runtimeconfig.json
+C:\Projects\FirstApp\FirstApp\bin\Debug\net6.0\FirstApp.dll
+C:\Projects\FirstApp\FirstApp\bin\Debug\net6.0\FirstApp.pdb
+C:\Projects\FirstApp\FirstApp\obj\Debug\net6.0\FirstApp.csproj.AssemblyReference.cache
+C:\Projects\FirstApp\FirstApp\obj\Debug\net6.0\FirstApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\FirstApp\FirstApp\obj\Debug\net6.0\FirstApp.AssemblyInfoInputs.cache
+C:\Projects\FirstApp\FirstApp\obj\Debug\net6.0\FirstApp.AssemblyInfo.cs
+C:\Projects\FirstApp\FirstApp\obj\Debug\net6.0\FirstApp.csproj.CoreCompileInputs.cache
+C:\Projects\FirstApp\FirstApp\obj\Debug\net6.0\FirstApp.dll
+C:\Projects\FirstApp\FirstApp\obj\Debug\net6.0\refint\FirstApp.dll
+C:\Projects\FirstApp\FirstApp\obj\Debug\net6.0\FirstApp.pdb
+C:\Projects\FirstApp\FirstApp\obj\Debug\net6.0\FirstApp.genruntimeconfig.cache
+C:\Projects\FirstApp\FirstApp\obj\Debug\net6.0\ref\FirstApp.dll
